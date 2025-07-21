@@ -1,7 +1,7 @@
 # Expense-Tracker
-📘 Project Documentation: Personal Expense Tracker
+📘 Project Documentation: Expense Tracker
 🧾 Project Title:
-Personal Expense Tracker Website
+ Expense Tracker Website
 
 📌 Objective:
 To develop a responsive and interactive web-based application that allows users to track their daily expenses efficiently using a simple interface and backend storage.
